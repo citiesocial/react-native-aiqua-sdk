@@ -28,7 +28,6 @@
   },
   "bundleDependencies": false,
   "dependencies": {
-    "react-native-webview": "5.0.1"
   },
   "deprecated": false,
   "description": "AIQUA react native sdk",
